@@ -1,4 +1,4 @@
-![Screenshot (61)](https://github.com/user-attachments/assets/53e82e48-fdbd-4fa2-abcf-4045843f58f6)**NAME**: S.HAMSANA   
+**NAME**: S.HAMSANA   
 **COMPANY** : CODTECH IT SOLUTIONS   
 **Intern ID**:CT08EMR  
 **DOMAIN** : FIGMA APP DEVELOPMENT  
